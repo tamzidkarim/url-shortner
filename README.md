@@ -1,3 +1,5 @@
-# url-shortner
+# URL SHRINKER
 
-Node.Js Express MongoDB
+* Node.js
+* Express.js
+* MongoDB
